@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootRestWebServiceDocWithSwagger
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sudes
+Implementation-Vendor-Id: com.infotech.swagger
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootRe
+ stWebServiceDocWithSwagger/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
